@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--
 
-Now I Changing the File content by adding This Line to paractice and sharp my knowlage. 
+Now I Changing the File content by adding This Line to paractice and sharp my knowledge. 
 
 -->
